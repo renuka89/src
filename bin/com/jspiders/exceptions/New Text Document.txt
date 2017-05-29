@@ -1,0 +1,7 @@
+System.out.println("exception is handled...");
+	//e.printStackTrace();
+/*System.out.println(" it will print wich exception is occured and for what it occured :"+
+	e);*/
+System.out.println("getmessage will print only the reason to occur exception:  "+
+	e.getMessage());
+			
